@@ -1,3 +1,3 @@
-206.189.92.10|VALLZVIP
+206.189.92.10|2024-08-22|VALLZVIP
 192.168.0.1|ANOTHERNAME
 # Tambahkan lebih banyak entri sesuai kebutuhan
